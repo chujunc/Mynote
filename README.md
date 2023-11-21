@@ -1,3 +1,3 @@
 "# Mynote" 
 
-nihao
+refer to the "Issues" module
